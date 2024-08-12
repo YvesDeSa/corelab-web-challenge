@@ -1,0 +1,22 @@
+export const colors = {
+    primary: '#FFFFFF',
+    background: '#F0F2F5',
+    textTitle: '#333333',
+    textDescription: '#50656E',
+    textCards: '#4F4F4D',
+    cardColors: {
+      default: '#ffffff',
+      blueLight: '#BAE2FF',
+      greenLight: '#B9FFDD',
+      yellowLight: '#FFE8AC',
+      peachLight: '#FFCAB9',
+      coral: '#F99494',
+      blueSky: '#9DD6FF',
+      purpleLight: '#ECA1FF',
+      lime: '#DAFF8B',
+      orangeLight: '#FFA285',
+      grayLight: '#CDCDCD',
+      grayDark: '#979797',
+      beige: '#A99A7C',
+    },
+};
