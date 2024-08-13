@@ -5,7 +5,6 @@ export const colors = {
     textDescription: '#50656E',
     textCards: '#4F4F4D',
     cardColors: {
-      default: '#ffffff',
       blueLight: '#BAE2FF',
       greenLight: '#B9FFDD',
       yellowLight: '#FFE8AC',
